@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Login Jetpack Compose</string>
+    <string name="web_client_id">251702246869-48ic1aj746nnclc88jhe4jr4tbj2hist.apps.googleusercontent.com</string>
+</resources>
