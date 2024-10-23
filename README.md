@@ -6,7 +6,7 @@ This repository contains several simple Android apps developed using Jetpack Com
 **Description**:  
 The Currency Converter App allows users to convert USD to PKR in real-time. It features a clean and minimalistic interface where users input the amount in USD and get the equivalent amount in PKR instantly. A great tool for anyone dealing with currency exchange.
 
-<img src="Screenshots/CurrencyApp_screenshot.jpg" alt="Currency Converter" width="400" height="720" />
+<img src="Screenshots/CurrencyApp_screenshot.jpg" alt="Currency Converter" width="370" height="620" />
 
 ---
 
