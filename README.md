@@ -6,7 +6,7 @@ This repository contains several simple Android apps developed using Jetpack Com
 **Description**:  
 The Currency Converter App allows users to convert USD to PKR in real-time. It features a clean and minimalistic interface where users input the amount in USD and get the equivalent amount in PKR instantly. A great tool for anyone dealing with currency exchange.
 
-![Currency Converter Screenshot](Screenshots/CurrencyApp_screenshot.jpg)
+<img src="Screenshots/CurrencyApp_screenshot.jpg" alt="Currency Converter" width="400" height="720" />
 
 ---
 
@@ -14,7 +14,7 @@ The Currency Converter App allows users to convert USD to PKR in real-time. It f
 **Description**:  
 The Guess App is a fun number-guessing game. The user picks a number, and the app provides feedback on whether the guess is too high or too low until the correct number is found. It’s an engaging way to practice logical guessing.
 
-![Guess App Screenshot](./Screenshots/GuessApp_screenshot.png)
+<img src="Screenshots/GuessApp_screenshot.jpg" alt="Guess App" width="400" height="720" />
 
 ---
 
@@ -22,7 +22,7 @@ The Guess App is a fun number-guessing game. The user picks a number, and the ap
 **Description**:  
 The Shapes App determines whether a given number represents a square, a triangular number, both, or none. It also visually displays the corresponding shapes, making it an interactive way to learn about these mathematical figures.
 
-![Shapes App Screenshot](./screenshots/ShapesApp_screenshot.png)
+<img src="Screenshots/ShapesApp_screenshot.jpg" alt="Shapes App" width="400" height="720" />
 
 ---
 
@@ -30,7 +30,7 @@ The Shapes App determines whether a given number represents a square, a triangul
 **Description**:  
 This app provides a simple Google login functionality using Firebase authentication. Users can sign in with their Google account and get access to the app's content securely. The interface is straightforward, with an intuitive login page.
 
-![Google Login Screenshot](./screenshots/GoogleLoginApp_screenshot.png)
+<img src="Screenshots/GoogleLoginApp_screenshot.jpg" alt="Google Login App" width="400" height="720" />
 
 ---
 
@@ -38,7 +38,7 @@ This app provides a simple Google login functionality using Firebase authenticat
 **Description**:  
 The Email Login App uses Firebase for authentication, allowing users to sign in or sign up using their email and password. It ensures a secure login process, with simple options for both existing users and new users to register.
 
-![Email Login Screenshot](./screenshots/EmailLoginApp_screenshot.png)
+<img src="Screenshots/EmailLoginApp_screenshot.jpg" alt="Email Login App" width="400" height="720" />
 
 ---
 
@@ -46,7 +46,7 @@ The Email Login App uses Firebase for authentication, allowing users to sign in 
 **Description**:  
 A simple Counter App with a button to increment the counter and a reset button to reset it back to zero. The app offers an easy-to-use interface for demonstrating state management in Jetpack Compose, ideal for beginners.
 
-![Counter App Screenshot](./screenshots/CounterApp_screenshot.png)
+<img src="Screenshots/CounterApp_screenshot.jpg" alt="Counter App" width="400" height="720" />
 
 ---
 
