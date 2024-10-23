@@ -1,7 +1,3 @@
-Here is a sample README file that explains your apps, along with references to their screenshots:
-
----
-
 # Android Apps Collection
 
 This repository contains several simple Android apps developed using Jetpack Compose. Each app has a specific functionality, providing hands-on learning in app development. Below are brief descriptions of each app, along with screenshots to showcase their UI.
@@ -10,7 +6,7 @@ This repository contains several simple Android apps developed using Jetpack Com
 **Description**:  
 The Currency Converter App allows users to convert USD to PKR in real-time. It features a clean and minimalistic interface where users input the amount in USD and get the equivalent amount in PKR instantly. A great tool for anyone dealing with currency exchange.
 
-![Currency Converter Screenshot](./screenshots/CurrencyApp_screenshot.png)
+![Currency Converter Screenshot](Screenshots/CurrencyApp_screenshot.jpg)
 
 ---
 
@@ -18,7 +14,7 @@ The Currency Converter App allows users to convert USD to PKR in real-time. It f
 **Description**:  
 The Guess App is a fun number-guessing game. The user picks a number, and the app provides feedback on whether the guess is too high or too low until the correct number is found. It’s an engaging way to practice logical guessing.
 
-![Guess App Screenshot](./screenshots/GuessApp_screenshot.png)
+![Guess App Screenshot](./Screenshots/GuessApp_screenshot.png)
 
 ---
 
@@ -60,14 +56,3 @@ A simple Counter App with a button to increment the counter and a reset button t
 3. Build and run the app on an emulator or a physical device.
 
 ---
-
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to explore and modify the code to learn more about Android development!
-
----
-
-This README file provides descriptions and screenshots in a clean and organized way. Let me know if you'd like to adjust anything!
